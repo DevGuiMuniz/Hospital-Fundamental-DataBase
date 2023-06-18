@@ -15,4 +15,4 @@ Deseja-se ainda informatizar a receita do médico, de maneira que, no encerramen
 
 <h1>Modelagem</h1>
 
-<img src = "https://github.com/DevGuiMuniz/Hospital-Fundamental-DataBase/blob/main/modelagem.png">
+<img src = "https://github.com/DevGuiMuniz/Hospital-Fundamental-DataBase/blob/main/Modelagem-Oficial.png">
